@@ -25,7 +25,7 @@ export function App() {
 		label: string;
 	}[] = [
 		{ value: "bca_statement", label: "BCA Debit Statement" },
-		{ value: "mandiri_statement", label: "Mandiri Debit Statmenet" },
+		{ value: "mandiri_statement", label: "Mandiri Debit Statement" },
 		{ value: "mandiri_cc_statement", label: "Mandiri CC Statement" }
 	];
 
