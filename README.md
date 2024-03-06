@@ -1,3 +1,3 @@
 # Bank Statement Parser Example
 
-Example usage of the bank statement parser.
+Example for [bank-statement-parser-id](https://github.com/fahmifan/bank-statement-parser-id)
